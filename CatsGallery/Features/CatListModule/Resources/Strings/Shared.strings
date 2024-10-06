@@ -1,0 +1,11 @@
+//
+//  Shared.strings
+//  CatsGallery
+//
+//  Created by Yukti on 05/10/24.
+//
+
+// MARK: Misc Strings
+error = "Error";
+
+ok = "OK";
